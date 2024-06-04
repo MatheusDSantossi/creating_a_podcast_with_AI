@@ -4,7 +4,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizamos uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizamos uma esteira de prompts para gerar cada etapa do processo criativo. Usei como base para esse projeto a aula e trabalho do professor [Felipe Aguiar](https://github.com/felipeAguiarCode). Usando como base o código que se encontra no [Github do professor](https://github.com/felipeAguiarCode/prompts-for-podcast-generate-by-ia?tab=readme-ov-file)
 
 ## 💻 Tecnologias utilizadas no projeto
 
